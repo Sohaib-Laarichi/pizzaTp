@@ -50,7 +50,7 @@ L'application permet également de **partager une recette** avec d'autres utilis
 ---
 
 ## 🎥 Démonstration  
-📹 **[Cliquez ici pour voir la démo]()**  
+
 [testfinal.webm](https://github.com/user-attachments/assets/34991b5b-2552-4def-a1e0-8cbf4e960e75)
 
 ---
